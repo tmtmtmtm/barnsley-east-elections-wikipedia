@@ -122,12 +122,7 @@ LAST	Len	"Ralph Dyson"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q3586935	P768	Q3133832	P102	Q980923	P1111	364	P1352	7	S4656	"https://en.wikipedia.org/wiki/Barnsley_East_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Richard Trotman"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q3133832	P102	Q9669	P1111	922	P1352	5	S4656	"https://en.wikipedia.org/wiki/Barnsley_East_(UK_Parliament_constituency)"
+Q75974889	P3602	Q30173038	P768	Q3133832	P102	Q9669	P1111	922	P1352	5	S4656	"https://en.wikipedia.org/wiki/Barnsley_East_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Robert Swiffen"
