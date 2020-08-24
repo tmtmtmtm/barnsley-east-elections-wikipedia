@@ -1,0 +1,20 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Barnsley_East_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q3133832",
+    "start": "2010",
+    "end": "9999"
+  }, {
+    "id": "Q42112985",
+    "start": "1983",
+    "end": "1997"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
